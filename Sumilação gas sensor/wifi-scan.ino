@@ -8,7 +8,7 @@ char nomeWifi[] = "Wokwi-GUEST";
 char senhaWifi[] = "";
 char serverAddress[] = "https://api.tago.io/data";
 char contentHeader[] = "application/json";
-char tokenHeader[] = "7f7a07e4-a019-48d7-adf2-641cef4985ba";
+char tokenHeader[] = "";
 
 int const PINO_SGAS = 33;
 int LED_VERDE = 5;
