@@ -4,17 +4,17 @@
 
 HTTPClient client;
 
-char nomeWifi[] = "Wokwi-GUEST";
+char nomeWifi[] = "";
 char senhaWifi[] = "";
 char serverAddress[] = "https://api.tago.io/data";
 char contentHeader[] = "application/json";
 char tokenHeader[] = "";
 
-int const PINO_SGAS = 33;
-int LED_VERDE = 5;
-int LED_AMARELO = 17;
-int LED_VERMELHO = 32;
-int valor = 0;
+int const PINO_SGAS = ;
+int LED_VERDE = ;
+int LED_AMARELO = ;
+int LED_VERMELHO = ;
+int valor = ;
 
 void setup() {
   pinMode(LED_VERDE, OUTPUT);
